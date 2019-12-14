@@ -1,0 +1,7 @@
+name	math	phys	chem
+ajay	44	43	42
+nikhil	45	54	56
+mahesh	67	78	89
+rishi	98	89	78
+dev	89	98	58
+nehal	78	87	98
